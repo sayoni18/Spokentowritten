@@ -16,3 +16,7 @@ For example, "two dollars" should be converted to $2. Abbreviations spoken as "C
 1. Handling proper spaces
 2. Emoji Implementation.
 3. Text abbrebiation e.g. et cetera == etc
+
+# Usage
+
+Download the .py file to your current working directory and then you can import the file as module
